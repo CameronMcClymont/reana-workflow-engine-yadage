@@ -2,6 +2,18 @@
 
 # Changelog
 
+## [0.9.6](https://github.com/CameronMcClymont/reana-workflow-engine-yadage/compare/0.9.5...0.9.6) (2025-09-03)
+
+
+### Continuous integration
+
+* **commitlint:** fix local running of commit linter on macOS ([#286](https://github.com/CameronMcClymont/reana-workflow-engine-yadage/issues/286)) ([4d2fd09](https://github.com/CameronMcClymont/reana-workflow-engine-yadage/commit/4d2fd091f4ffb53d401530eec5a43814e2be413e))
+* **jsonlint:** add JSON linting ([#288](https://github.com/CameronMcClymont/reana-workflow-engine-yadage/issues/288)) ([e04c7fa](https://github.com/CameronMcClymont/reana-workflow-engine-yadage/commit/e04c7fabcbce987dc10883f92112ad1a7702ec2f))
+* **markdownlint:** add Markdown linting ([#288](https://github.com/CameronMcClymont/reana-workflow-engine-yadage/issues/288)) ([2dd9310](https://github.com/CameronMcClymont/reana-workflow-engine-yadage/commit/2dd9310028d82d4aae366212f8fa1ab6692a9b17))
+* **prettier:** add Prettier code formatting checks ([#288](https://github.com/CameronMcClymont/reana-workflow-engine-yadage/issues/288)) ([49e092d](https://github.com/CameronMcClymont/reana-workflow-engine-yadage/commit/49e092d5cdb9b7a1c5127cd67e8e038dffbbde69))
+* **shfmt:** add shell script formatting checks ([#288](https://github.com/CameronMcClymont/reana-workflow-engine-yadage/issues/288)) ([93fee91](https://github.com/CameronMcClymont/reana-workflow-engine-yadage/commit/93fee912cdc860c28ff69fe2b46deaef5441791f))
+* **yamllint:** add YAML linting ([#288](https://github.com/CameronMcClymont/reana-workflow-engine-yadage/issues/288)) ([c9a5399](https://github.com/CameronMcClymont/reana-workflow-engine-yadage/commit/c9a5399327d6f64aeb27c67efaa42600fa563176))
+
 ## [0.9.5](https://github.com/reanahub/reana-workflow-engine-yadage/compare/0.9.4...0.9.5) (2024-11-29)
 
 ### Build
